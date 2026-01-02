@@ -1,0 +1,14 @@
+{
+  "updatedAtUtc": "2026-01-02T13:30:00Z",
+  "strategies": {
+    "arbitrage": {
+      "files": ["summary.csv", "onefile.jsonl", "best_params.jsonl"]
+    },
+    "chrono": {
+      "files": ["summary.csv", "onefile.jsonl", "best_params.jsonl"]
+    },
+    "opendoor": {
+      "files": ["summary.csv", "onefile.jsonl", "best_params.jsonl"]
+    }
+  }
+}
