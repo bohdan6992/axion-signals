@@ -1,3 +1,2 @@
 arbitrage/onefile.jsonl filter=lfs diff=lfs merge=lfs -text
 opendoor/onefile.jsonl filter=lfs diff=lfs merge=lfs -text
-*.jsonl filter=lfs diff=lfs merge=lfs -text
